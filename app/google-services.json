@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "741959533658",
+    "firebase_url": "https://ramadany-f3a82.firebaseio.com",
+    "project_id": "ramadany-f3a82",
+    "storage_bucket": "ramadany-f3a82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741959533658:android:bdc87c5907c01d4b268463",
+        "android_client_info": {
+          "package_name": "com.example.weatherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741959533658-ohdt54920vkpiv6ld2rbqb26g1041dtt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.weatherapp",
+            "certificate_hash": "83f6fb64cbb7964fda201ab88873d603ef5253ba"
+          }
+        },
+        {
+          "client_id": "741959533658-pb6aradsgr0rl7qa0jcvrnnbimfr8uu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc-vF9KN9auKZvwz3wu8rIB9UeONwU_VY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741959533658-pb6aradsgr0rl7qa0jcvrnnbimfr8uu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
